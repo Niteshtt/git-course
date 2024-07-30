@@ -1,2 +1,0 @@
-Hi Nitesh your first git course
-new change in this file
